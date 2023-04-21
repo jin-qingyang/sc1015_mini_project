@@ -33,9 +33,9 @@ We want to help developers find out what features of a video game would result i
 
 We are group 5 from tutorial group A121. There are 3 members in our group
 
-| Name             | Email                  | Main contribution
-|------------------|------------------------|-----------------------
-| Chong Geng Yang  | gchong016@e.ntu.edu.sg | 
-| Jin Qingyang     | JINQ0003@e.ntu.edu.sg  |
-| Li Zhiyuan       | d220009@e.ntu.edu.sg   |
+| Name             | Email                  
+|------------------|------------------------
+| Chong Geng Yang  | gchong016@e.ntu.edu.sg 
+| Jin Qingyang     | JINQ0003@e.ntu.edu.sg  
+| Li Zhiyuan       | d220009@e.ntu.edu.sg   
 

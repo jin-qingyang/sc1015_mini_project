@@ -2,6 +2,8 @@
 
 NTU AY2022/23 Semester 2 SC1015 Group Project
 
+Our group choose a kaggle dataset about video games and their sales to analyse the important factors affecting the sales of the video games
+
 ## Links
 - [Kaggle Dataset] (https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
 - [Video Presentation]

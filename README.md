@@ -50,23 +50,22 @@ Possible reasons for the poor classifications include:
 
 ## Contibutions
 
-| Part             | Name                  
-|------------------|------------------------
-| Data Cleaning    | Geng Yang
-|                  | Qingyang
-|                  | Zhiyuan
-|------------------|------------------------
-| Exploratory      | Geng Yang
-| Data Analysis    | Qingyang
-|                  | Zhiyuan
-|------------------|------------------------
-| Machine Learning | Qingyang
-| Models           | Zhiyuan
-|                  |
-|------------------|------------------------
-| Additional       | Geng Yang
-| Research         | Qingyang
-|                  |
+| Part                        | Name                  
+|-----------------------------|------------------------
+| Data Cleaning               | Geng Yang
+|                             | Qingyang
+|                             | Zhiyuan
+|-----------------------------|------------------------
+| Exploratory Data Analysis   | Geng Yang
+|                             | Qingyang
+|                             | Zhiyuan
+|-----------------------------|------------------------
+| Machine Learning Models     | Qingyang
+|                             | Zhiyuan
+|                             |
+|-----------------------------|------------------------
+| Additional Research         | Geng Yang
+|                             | Qingyang                  
 
 
 

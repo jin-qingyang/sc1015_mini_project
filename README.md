@@ -55,15 +55,11 @@ Possible reasons for the poor classifications include:
 | Data Cleaning               | Geng Yang
 |                             | Qingyang
 |                             | Zhiyuan
-|-----------------------------|------------------------
 | Exploratory Data Analysis   | Geng Yang
 |                             | Qingyang
 |                             | Zhiyuan
-|-----------------------------|------------------------
 | Machine Learning Models     | Qingyang
-|                             | Zhiyuan
-|                             |
-|-----------------------------|------------------------
+|                             | Zhiyuan                          
 | Additional Research         | Geng Yang
 |                             | Qingyang                  
 

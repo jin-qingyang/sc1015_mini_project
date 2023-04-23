@@ -48,7 +48,7 @@ Possible reasons for the poor classifications include:
 | Jin Qingyang     | JINQ0003@e.ntu.edu.sg  
 | Li Zhiyuan       | d220009@e.ntu.edu.sg   
 
-## Contibutions
+## Contributions
 
 | Part                        | Name                  
 |-----------------------------|------------------------
